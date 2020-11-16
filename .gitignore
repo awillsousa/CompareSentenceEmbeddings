@@ -1,2 +1,4 @@
 encoder
 GloVe
+__pycache__
+.ipynb_checkpoints
